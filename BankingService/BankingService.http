@@ -1,0 +1,29 @@
+### Create account
+POST https://localhost:5001/api/accounts
+Content-Type: application/json
+
+{
+  "ownerId": "user-1",
+  "displayName": "My Current",
+  "type": "Current",
+  "initialBalance": 500.00
+}
+
+### Get account
+GET https://localhost:5001/api/accounts/{{accountId}}
+
+### Freeze account
+PATCH https://localhost:5001/api/accounts/{{accountId}}/freeze
+Content-Type: application/json
+
+{ "freeze": true }
+
+### Transfer
+POST https://localhost:5001/api/accounts/transfers
+Content-Type: application/json
+
+{
+  "fromAccountId": "{{fromId}}",
+  "toAccountId": "{{toId}}",
+  "amount": 100.00
+}

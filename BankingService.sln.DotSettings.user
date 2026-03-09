@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ACancellationToken_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F3c32b6774a69464667352a9e262bc924c57674f811c382e29abe8dbe3639f4c_003FCancellationToken_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AProducesResponseTypeAttribute_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F335bbf5e4d64b3f8eea1f59e6536ad1fbe523d9781994c7b350cf314e312_003FProducesResponseTypeAttribute_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29b8e81b_002Dcfcf_002D44fc_002D8f46_002Df231055f6111/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;BankingService.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/ruslan/RiderProjects/BankingService/BankingService.Tests" Presentation="&amp;lt;BankingService.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=82a17eec_002D53f0_002D4f21_002Db037_002D700c223db9b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AccountMetricsServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::FA6AADC3-9496-4A0C-A6FC-6E5186243CC7::net8.0::BankingService.Tests.AccountMetricsServiceTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::FA6AADC3-9496-4A0C-A6FC-6E5186243CC7::net8.0::BankingService.Tests.AccountServiceTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;FA6AADC3-9496-4A0C-A6FC-6E5186243CC7/f:AccountServiceConcurrencyTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;FA6AADC3-9496-4A0C-A6FC-6E5186243CC7/f:ConstructorNullGuardTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;FA6AADC3-9496-4A0C-A6FC-6E5186243CC7/f:MappingTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;FA6AADC3-9496-4A0C-A6FC-6E5186243CC7/f:ValidatorTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e4c72f9_002D9a5f_002D41e7_002D90c1_002D7513a9425d3c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AccountMetricsServiceTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/ruslan/RiderProjects/BankingService/BankingService.Tests" Presentation="&amp;lt;BankingService.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
